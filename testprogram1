@@ -1,0 +1,5 @@
+s = 0;
+e = s + 1;
+s = s & e;
+write(e);
+write(s)
